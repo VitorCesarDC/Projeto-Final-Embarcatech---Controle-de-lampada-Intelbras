@@ -107,16 +107,16 @@ Esses pontos foram resolvidos por depuracao incremental via serial, modularizaca
 
 ## 8. Conclusao
 O projeto atingiu o objetivo proposto de controlar uma lampada inteligente Intelbras por meio de um sistema embarcado local com Raspberry Pi Pico W. A solucao final apresentou funcionamento estavel, interface intuitiva e boa organizacao de software, consolidando conceitos importantes de programacao embarcada, redes e integracao de perifericos.
+video de demonstração: https://youtube.com/shorts/vUKNtUGwQAs?si=WFp6bwmGc2QZovnv
 
 Como trabalhos futuros, pode-se incluir:
 - leitura de estado completo (modo/cor/brilho) em tempo real,
 - perfis de cena personalizados,
-- persistencia de configuracoes em memoria nao volatil,
-- integracao com aplicativo proprio.
 
 ## 9. Referencias
 - Raspberry Pi Pico SDK Documentation.
 - Tuya Developer Platform (IoT) - documentacao de DPS e protocolo local.
 - Datasheet SSD1306.
 - Documentacao e exemplos da plataforma BitDogLab.
+- Get your Tuya Device Local Key(Jimmy James): https://www.youtube.com/watch?v=Q1ZShFJDvE0
 
