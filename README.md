@@ -124,5 +124,6 @@ Como trabalhos futuros, pode-se incluir:
 Foram usadas as seguintes ferramentas: 
 - Chat GPT
 - Grok
--Claude
-Em diferentes etapas do projeto.
+- Claude
+
+Em diferentes etapas do projeto, desde o processo de criação de codigo e debugagem, até produção textual. 
