@@ -120,3 +120,9 @@ Como trabalhos futuros, pode-se incluir:
 - Documentacao e exemplos da plataforma BitDogLab.
 - Get your Tuya Device Local Key(Jimmy James): https://www.youtube.com/watch?v=Q1ZShFJDvE0
 
+## 10. Ferrramentas de IA
+Foram usadas as seguintes ferramentas: 
+- Chat GPT
+- Grok
+-Claude
+Em diferentes etapas do projeto.
